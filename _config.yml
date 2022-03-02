@@ -108,3 +108,5 @@ exclude:
   - node_modules
   - docs/
   - vendor
+
+theme: jekyll-theme-cayman
